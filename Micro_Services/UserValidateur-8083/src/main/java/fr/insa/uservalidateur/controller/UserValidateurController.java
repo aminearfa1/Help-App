@@ -34,6 +34,5 @@ public class UserValidateurController {
         return userValidateurService.createValidateur(validateur);
     }
 
-    // D'autres méthodes pour la mise à jour et la suppression si nécessaire
-    // ...
+
 }
